@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Objective:Actual function is y=x**2, primary linear fit by OLS
+# Objective:primary linear fit by OLS
 # Author: 张子昂 Date: 20230309 Student Number: 202004060320
 
 import numpy as np
